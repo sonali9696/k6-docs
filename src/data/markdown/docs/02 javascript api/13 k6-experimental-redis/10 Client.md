@@ -8,7 +8,7 @@ excerpt: 'Client is a Redis client to interact with a Redis server or cluster.'
 Though the API intends to be thorough and extensive, it does not expose the whole Redis API.
 Instead, the intent is to expose Redis for use cases most appropriate to k6. 
 
-Note that the `Client` is configured through the [`Options`](/javascript-api/k6-redis/options) object.
+Note that the `Client` is configured through the [`Options`](/javascript-api/k6-experimental-redis/options) object.
 
 ## Example
 
