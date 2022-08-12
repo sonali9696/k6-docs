@@ -45,4 +45,4 @@ This way, a user can perform asynchronous interactions with Redis in a seemingly
 | Class                                       | Description                                                                                    |
 | :------------------------------------------ | :--------------------------------------------------------------------------------------------- |
 | [Client](/javascript-api/k6-experimental-redis/client)   | Client that exposes allowed interactions with Redis.                                           |
-| [Options](/javascript-api/k6-redis/options) | Options used to configure the behavior of the [Redis Client](/javascript-api/k6-redis/client). |
+| [Options](/javascript-api/k6-experimental-redis/options) | Options used to configure the behavior of the [Redis Client](/javascript-api/k6-experimental-redis/client). |
