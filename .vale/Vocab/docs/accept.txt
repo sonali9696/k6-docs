@@ -147,6 +147,7 @@ vendored
 walkthrough
 webpages
 wpnonce
+Zendesk
 (?i)codeless
 ava
 utils
